@@ -12,4 +12,9 @@ However, no other information regarding stores and products are available. Can y
 record_ID|Unique ID for each week store sku combination
 units_sold|	(Target) Total Units sold for that week-store-sku combination
 
+# Evaluation Metrics
+The evaluation metric for this competition is 100*RMSLE (Root Mean Squared Log Error).
+
+
+
 
